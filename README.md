@@ -22,7 +22,7 @@ sha256:7a3cedfc4fdbc7e2feff67e2855bf5e90f3398021d61a5e38127c6f036f87f7c
 <img src="screenshot/example.png" width="30%">
 
 
-可以想象你在网络上传输或存储英文助记词容易被第三方软件或后门程序检测盗取,或者助记词记录在纸张上丢失后也容易被他人认出这是助记词.
+可以想象你在网络上传输或存储英文助记词容易被第三方软件或后门程序检测盗取,或者助记词记录在纸张上被亲人或朋友盗取,丢失后也容易被他人认出这是助记词.
 
 ```
 blast repeat visual prize kiwi project bird before comic gate daring decade
