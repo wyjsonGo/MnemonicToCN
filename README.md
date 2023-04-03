@@ -1,13 +1,13 @@
 # MnemonicToCN
 助记词转中文,中文助记词存储更安全,无需任何权限.
 
-##实现原理
+## 实现原理
 
 [bip39英文](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt)
 
 [bip39中文](https://github.com/bitcoin/bips/blob/master/bip-0039/chinese_simplified.txt)
 
-##下载Apk
+## 下载Apk
 
 [MnemonicToCN_1.0.0.apk](https://github.com/wangyao5018/MnemonicToCN/releases/download/1.0.0/MnemonicToCN_1.0.0.apk)
 
