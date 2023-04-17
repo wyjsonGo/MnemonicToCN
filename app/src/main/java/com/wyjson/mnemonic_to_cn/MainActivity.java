@@ -6,7 +6,6 @@ import android.content.ClipboardManager;
 import android.content.Context;
 import android.os.Bundle;
 import android.text.TextUtils;
-import android.util.Log;
 import android.view.View;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.ArrayAdapter;
@@ -67,7 +66,6 @@ public class MainActivity extends Activity {
             String result = ((TextView) view).getText().toString();
             if (TextUtils.isEmpty(result))
                 return false;
-            Log.e("WyjsonTest", "result:" + result);
             ((ClipboardManager) getSystemService(Context.CLIPBOARD_SERVICE)).setPrimaryClip(ClipData.newPlainText("result", result));
             Toast.makeText(this, "复制成功!", Toast.LENGTH_SHORT).show();
             return true;
