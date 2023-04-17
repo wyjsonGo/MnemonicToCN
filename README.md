@@ -14,9 +14,9 @@
 
 [MnemonicToCN_1.0.0.apk](https://github.com/wangyao5018/MnemonicToCN/releases/download/1.0.0/MnemonicToCN_1.0.0.apk)
 
-md5:38e8d06c128c1a02f4cddf40b4c53311
+md5:2bffa3aebc256f881fd6d054543531f4
 
-sha256:7a3cedfc4fdbc7e2feff67e2855bf5e90f3398021d61a5e38127c6f036f87f7c
+sha256:0c45a90945bfcd7f1091caf90aa88911ed735ffa50ed793a80bdb34a2150cb72
 
 ## 示例
 <img src="screenshot/example.png" width="30%">
