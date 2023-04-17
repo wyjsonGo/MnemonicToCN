@@ -21,8 +21,10 @@ public class MnemonicUtils {
         String[] contentList = content.split(" ");
         for (int i = 0; i < contentList.length; i++) {
             String item = contentList[i];
+            if (TextUtils.isEmpty(item))
+                continue;
             for (int j = 0; j < bip0039ENArray.length; j++) {
-                if (bip0039ENArray[j].startsWith(item.toLowerCase())) {
+                if (bip0039ENArray[j].equalsIgnoreCase(item)) {
                     contentList[i] = bip0039CNArray[j];
                     break;
                 }
@@ -51,7 +53,7 @@ public class MnemonicUtils {
         for (int i = 0; i < content.length(); i++) {
             String item = content.substring(i, i + 1);
             for (int j = 0; j < bip0039CNArray.length; j++) {
-                if (bip0039CNArray[j].equalsIgnoreCase(item)) {
+                if (bip0039CNArray[j].equals(item)) {
                     resultList.add(bip0039ENArray[j]);
                     break;
                 } else if (j == (bip0039CNArray.length - 1)) {
