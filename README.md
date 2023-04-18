@@ -18,10 +18,7 @@ md5:2bffa3aebc256f881fd6d054543531f4
 sha256:0c45a90945bfcd7f1091caf90aa88911ed735ffa50ed793a80bdb34a2150cb72
 
 ## 示例
-<img src="screenshot/4.png" width="30%">
-<img src="screenshot/3.png" width="30%">
-<img src="screenshot/1.png" width="30%">
-
+<img src="screenshot/4.png" width="30%"><img src="screenshot/3.png" width="30%"><img src="screenshot/1.png" width="30%">
 
 可以想象你在网络上传输或存储英文助记词容易被第三方软件或后门程序检测盗取,或者助记词记录在纸张上被亲人或朋友盗取,丢失后也容易被他人认出这是助记词.
 
