@@ -11,7 +11,7 @@
 ## 下载Apk
 <img src="app/src/main/res/mipmap-xxhdpi/ic_launcher.png" width="50px">
 
-[MnemonicToCN_1.0.0.apk](https://github.com/wangyao5018/MnemonicToCN/releases/download/1.0.0/MnemonicToCN_1.0.0.apk)
+[MnemonicToCN_1.0.0.apk](https://github.com/wyjsonGo/MnemonicToCN/releases/download/1.0.0/MnemonicToCN_1.0.0.apk)
 
 md5:2bffa3aebc256f881fd6d054543531f4
 
