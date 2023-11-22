@@ -1,12 +1,8 @@
 # MnemonicToCN
-助记词转中文,中文助记词传输或存储更安全,无需任何权限.支持各种位数(12、15、18、21、24)的助记词
 
-## 实现原理
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/wyjsonGo/GoRouter/blob/main/LICENSE)
 
-根据
-[bip39英文](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt)
-对照表转换成
-[bip39中文](https://github.com/bitcoin/bips/blob/master/bip-0039/chinese_simplified.txt)
+助记词转中文,中文助记词传输、存储更安全,无需任何权限.支持各种位数(12、15、18、21、24)的助记词。
 
 ## 下载Apk
 <img src="app/src/main/res/mipmap-xxhdpi/ic_launcher.png" width="50px">
@@ -28,6 +24,13 @@ admit blush auto chief ability brass hip chat hold shuffle best discover
 
 而换成中文,不易被检测.它可以是一段话,三字经,四字成语格式存储,因为没有人知道它是助记词.
 
+## 实现原理
+
+根据
+[bip39英文](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt)
+对照表转换成
+[bip39中文](https://github.com/bitcoin/bips/blob/master/bip-0039/chinese_simplified.txt)
+
 ## 关于存储
 1.图片
 
@@ -37,6 +40,6 @@ admit blush auto chief ability brass hip chat hold shuffle best discover
 
 <img src="screenshot/zt.png" width="240px">
 
-3.制作成钥匙链放在保险箱里(我相信小偷会拿走钱也不会拿走你的钥匙链)
+3.制作成钥匙链放在抽屉里(我相信小偷会拿走钱也不会拿走你的钥匙链)
 
 <img src="screenshot/ycl1.jpg" width="200px"><img src="screenshot/ycl2.jpg" width="200px">
