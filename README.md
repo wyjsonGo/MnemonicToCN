@@ -11,11 +11,11 @@
 ## 下载Apk
 <img src="app/src/main/res/mipmap-xxhdpi/ic_launcher.png" width="50px">
 
-[MnemonicToCN_1.0.0.apk](https://github.com/wyjsonGo/MnemonicToCN/releases/download/1.0.0/MnemonicToCN_1.0.0.apk)
+[MnemonicToCN_1.0.1.apk](https://github.com/wyjsonGo/MnemonicToCN/releases/download/1.0.1/MnemonicToCN_1.0.1.apk)
 
-md5:2bffa3aebc256f881fd6d054543531f4
+md5:bd71de4ba297f8c4f7740565a5685885
 
-sha256:0c45a90945bfcd7f1091caf90aa88911ed735ffa50ed793a80bdb34a2150cb72
+sha256:66128baaa02949639b77e0f0a9758ed8f2c09e128e5cc019c8c0199ab317f681
 
 ## 示例
 <img src="screenshot/4.png" width="30%"><img src="screenshot/3.png" width="30%"><img src="screenshot/1.png" width="30%">
