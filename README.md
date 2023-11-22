@@ -1,4 +1,4 @@
-# MnemonicToCN
+# [MnemonicToCN](https://github.com/wyjsonGo/MnemonicToCN)
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/wyjsonGo/GoRouter/blob/main/LICENSE)
 
@@ -9,9 +9,9 @@
 
 [MnemonicToCN_1.0.1.apk](https://github.com/wyjsonGo/MnemonicToCN/releases/download/1.0.1/MnemonicToCN_1.0.1.apk)
 
-md5:bd71de4ba297f8c4f7740565a5685885
+md5：bd71de4ba297f8c4f7740565a5685885
 
-sha256:66128baaa02949639b77e0f0a9758ed8f2c09e128e5cc019c8c0199ab317f681
+sha256：66128baaa02949639b77e0f0a9758ed8f2c09e128e5cc019c8c0199ab317f681
 
 ## 示例
 <img src="screenshot/4.png" width="30%"><img src="screenshot/3.png" width="30%"><img src="screenshot/1.png" width="30%">
