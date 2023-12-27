@@ -13,7 +13,7 @@ for(;;){
     var mnemonicPhraseCN = "出入平安一路顺风喜怒无病";// 输入0~12位中文助记词,缺少位会自动填补
     var mnemonicPhraseCNArr = mnemonicPhraseCN.toString().split("");
     for(;;){
-        if (mnemonicPhraseCNArr.length == 12)
+        if (mnemonicPhraseCNArr.length >= 12)
             break;
         var randomIndex = Math.floor(Math.random()*bip0039CNArray.length);
         if (mnemonicPhraseCNArr.indexOf(bip0039CNArray[randomIndex]) == -1){
@@ -39,10 +39,10 @@ for(;;){
         console.log(`钱包助记词： ${mnemonicPhrase}`)
         console.log(`钱包助记词CN： ${mnemonicPhraseCNArr.join("")}`)
         console.log("-------------------------------------------------------------------")
-    }catch(error){
-        console.log("错误的助记词");
+    } catch(error) {
+//        console.log("错误的助记词");
     }
-    if (mnemonicPhraseCN.length == 12)
+    if (mnemonicPhraseCN.length >= 12)
         return;
 }
 
