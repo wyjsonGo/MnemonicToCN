@@ -19,7 +19,9 @@ sha256：66128baaa02949639b77e0f0a9758ed8f2c09e128e5cc019c8c0199ab317f681
 可以想象你在网络上传输或存储英文助记词容易被第三方软件或后门程序检测盗取,或者助记词记录在纸张上被亲人或朋友盗取,丢失后也容易被他人认出这是助记词.
 
 ```
-admit blush auto chief ability brass hip chat hold shuffle best discover
+admit blush auto chief ability brass hip chat hold shuffle best board
+转换后
+出入平安一路顺风喜怒无常
 ```
 
 而换成中文,不易被检测.它可以是一段话,三字经,四字成语格式存储,因为没有人知道它是助记词.
